@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-README file under design!
+I'm currently enrolled in a full stack development bootcamp!
 
